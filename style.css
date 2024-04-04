@@ -63,25 +63,25 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNqMWlnNDBnMDFwcTB1NjN5ZWRtM3Bud2U4aWd1Zzh4N3kwOTN3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNZxv7YMkAPeM/giphy.gif");
+background-image: url('images/two-friends-happy-jumping.webp');
 }
 
 #gift-img-hot:hover {
-    background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RxeW01eW04ZjY2a3M5MTF2aHRuc2N1cG8zaXl1Mm16b3pvMThpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LzwcNOrbA3aYvXK6r7/giphy.gif');
+    background-image: url('images/birthday-cake.webp');
 }
 
 
 #gift-img-genius:hover {
-    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh6eDVocXpkb3B0OTVoNTZ6MjBta2x3OGN2enFmYmQ2OG82aXduciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46C7X7h54JXm23YY/giphy.gif");
+background-image: url('images/one-word-said.webp');
 }
 
 #gift-img-range:hover {
-    background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW45NHlyMzliZWtqaGx6emprN3E3czBjYmprZzdyb2Vpeng4b3h3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RppDyhT3ehPueUpw2O/giphy.gif');
+background-image: url('images/range-rover.webp');
 }
 
 
 #gift-img-cheers:hover {
-    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHB1ZmF3bTEyZDZyazA3ZHBvNXBhOGJkNmN2a3h3aWNhdTl4Ym5ybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif");
+background-image: url('images/cheers2.webp');
 }
 
 #footer {

@@ -64,15 +64,20 @@ h1, h2, h3, h4, p {
 
 #gift-img-happy:hover {
 background-image: url('images/two-friends-happy-jumping.webp');
+background-position: center;
+
+
 }
 
 #gift-img-hot:hover {
     background-image: url('images/birthday-cake.webp');
+    background-position: center;
 }
 
 
 #gift-img-genius:hover {
 background-image: url('images/one-word-said.webp');
+background-position: center;
 }
 
 #gift-img-range:hover {
@@ -82,6 +87,7 @@ background-image: url('images/range-rover.webp');
 
 #gift-img-cheers:hover {
 background-image: url('images/cheers2.webp');
+background-position: center;
 }
 
 #footer {
